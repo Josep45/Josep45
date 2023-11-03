@@ -3,9 +3,8 @@
 Josep Villar Pavón
 
 ## Datos personales
-- Dirección: Calle Granollers, 11 2.ª
 - Teléfono: 637 635 476
-- Correo electrónico: josepvillarpavon@gmail.com
+  
 
 ## Resumen
 Actualmente estoy estudiando en el instituto niculau copernic el segundo año de superior y tengo altas habilidades sobre la informática.
