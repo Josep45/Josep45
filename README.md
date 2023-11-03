@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Josep45/Josep45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Josep Villar Pavón
 
-Here are some ideas to get you started:
+## Datos personales
+- Dirección: Calle Granollers, 11 2.ª
+- Teléfono: 637 635 476
+- Correo electrónico: josepvillarpavon@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Resumen
+Actualmente estoy estudiando en el instituto niculau copernic el segundo año de superior y tengo altas habilidades sobre la informática.
+## De experiencia laboral estuve en un instituto sant llorenç del munt reparando impresoras, arreglando ordenadores y instalando sistemas varios.
+
+Actualmente, tengo en mi posesión el título de grado medio de sistemas microinformáticos y redes y el título de la ESO.
+
+
+
+## Idiomas
+Español 
+Catalan 
+English 
